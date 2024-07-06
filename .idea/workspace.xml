@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd6de944-db1f-4f5a-8821-411826f74cc1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DayInMoth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DieuKien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DieuKien2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KieuDuLieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NhapXuat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToanTu.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2imYTTnWJMmHkulWph1aXPvDkmv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DayInMoth.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.DieuKien2.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.NhapXuat.executor": "Run",
+    "Application.bai1dieukien.executor": "Run",
+    "Application.bai1kieudulieu.executor": "Run",
+    "Application.bai1nhapxuat.executor": "Run",
+    "Application.bai1toantu.executor": "Run",
+    "Application.bai2dieukien.executor": "Run",
+    "Application.bai2kieudulieu.executor": "Run",
+    "Application.bai2nhapxuat.executor": "Run",
+    "Application.bai2toantu.executor": "Run",
+    "Application.bai3kieudulieu.executor": "Run",
+    "Application.bai3nhapxuat.executor": "Run",
+    "Application.bai3toantu.executor": "Run",
+    "Application.bai4kieudulieu.executor": "Run",
+    "Application.bai4toantu.executor": "Run",
+    "Application.bai5dieukien.executor": "Run",
+    "Application.bai6dieukien.executor": "Run",
+    "Application.bai7dieukien.executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/CodeGym/Module_2/Module_2.iml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/CodeGym/DemoJava/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.bai2toantu">
+    <configuration name="DayInMoth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayInMoth" />
+      <module name="DemoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bai2toantu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai2toantu" />
+      <module name="DemoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bai6dieukien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai6dieukien" />
+      <module name="DemoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bai7dieukien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai7dieukien" />
+      <module name="DemoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="DemoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.bai2toantu" />
+        <item itemvalue="Application.DayInMoth" />
+        <item itemvalue="Application.bai7dieukien" />
+        <item itemvalue="Application.bai6dieukien" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd6de944-db1f-4f5a-8821-411826f74cc1" name="Changes" comment="" />
+      <created>1720097229343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720097229343</updated>
+      <workItem from="1720097230428" duration="228000" />
+      <workItem from="1720097496726" duration="4542000" />
+      <workItem from="1720102096371" duration="25000" />
+      <workItem from="1720102127887" duration="4000" />
+      <workItem from="1720102137558" duration="90000" />
+      <workItem from="1720102526250" duration="54000" />
+      <workItem from="1720103063275" duration="455000" />
+      <workItem from="1720164826761" duration="79000" />
+      <workItem from="1720165105566" duration="152000" />
+      <workItem from="1720165267356" duration="6907000" />
+      <workItem from="1720173917138" duration="1776000" />
+      <workItem from="1720184906450" duration="6066000" />
+      <workItem from="1720246698798" duration="2653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DayInMoth.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
